@@ -1,0 +1,6 @@
+asset_id,device_name,os,owner,purchase_year,status
+A001,LON-LAP-001,Windows 11,Sam Taylor,2021,Active
+A002,LON-MAC-002,macOS,Alex Green,2020,Active
+A003,LON-LAP-003,Windows 10,,2019,Active
+A004,LON-MAC-004,macOS,Jordan Lee,2018,Inactive
+A005,LON-LAP-005,Windows 11,Priya Shah,2023,Active
